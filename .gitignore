@@ -1,0 +1,11 @@
+# Rust build artifacts
+/target/
+Cargo.lock
+
+# IDE / Editor specific
+.vscode/
+.idea/
+
+# OS specific
+.DS_Store
+Thumbs.db
