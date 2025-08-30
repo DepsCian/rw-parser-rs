@@ -2,6 +2,11 @@
 name = "rw-parser-rs"
 version = "1.0.0"
 edition = "2024"
+description = "A high-performance, native Rust parser for RenderWare files (.dff, .txd, .ifp)."
+license = "GPL-3.0"
+repository = "https://github.com/DepsCian/rw-parser-rs"
+homepage = "https://github.com/DepsCian/rw-parser-rs"
+documentation = "https://docs.rs/rw-parser-rs"
 
 [dependencies]
 byteorder = "1.5.0"
