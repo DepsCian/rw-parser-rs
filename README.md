@@ -2,7 +2,7 @@
 
 [![Crates.io](https://img.shields.io/crates/v/rw-parser-rs.svg)](https://crates.io/crates/rw-parser-rs)
 [![Docs.rs](https://docs.rs/rw-parser-rs/badge.svg)](https://docs.rs/rw-parser-rs)
-[![License](https://img.shields.io/crates/l/rw-parser-rs.svg)](https://github.com/YourUsername/rw-parser-rs/blob/main/LICENSE)
+[![License](https://img.shields.io/crates/l/rw-parser-rs.svg)](https://github.com/DepsCian/rw-parser-rs/blob/main/LICENSE)
 
 A high-performance, native Rust parser for RenderWare files (`.dff`, `.txd`, `.ifp`).
 
@@ -49,7 +49,7 @@ fn main() -> std::io::Result<()> {
 
 ## Development
 
-1.  Clone the repository: `git clone https://github.com/YourUsername/rw-parser-rs.git`
+1.  Clone the repository: `git clone https://github.com/DepsCian/rw-parser-rs.git`
 2.  Build the project: `cargo build --release`
 3.  Run benchmarks: `cargo bench`
 4.  Generate documentation: `cargo doc --open`
